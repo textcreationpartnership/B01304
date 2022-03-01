@@ -1,0 +1,1499 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief (yet full) account of the doctrine of vulgar and decimal fractions, with a specimen on their demonstrations by William Alingham, teacher of the mathematicks.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01304</idno>
+            <idno type="STC">Wing A1187C</idno>
+            <idno type="STC">ESTC R172148</idno>
+            <idno type="EEBO-CITATION">47012311</idno>
+            <idno type="OCLC">ocm 47012311</idno>
+            <idno type="VID">174268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01304)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174268)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2680:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief (yet full) account of the doctrine of vulgar and decimal fractions, with a specimen on their demonstrations by William Alingham, teacher of the mathematicks.</title>
+               </titleStmt>
+               <extent>[5], 75 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed; sold by Mr. Mount at the Postern on Tower-hill, Mr. Lea, Globemaker in Cheapside. Mr. Worgan, Mathematick-Instrument-maker, under St. Dunstan's Church in Fleetstreet; and by the Author, at his House in Channel-Row, Westminster.</publisher>
+                  <pubPlace>London:</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes preface by the author on [4]-[5].</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fractions --  Problems, exercises, etc.</term>
+               <term>Fractions --  Early works to 1800.</term>
+               <term>Decimal fractions --  Problems, exercises, etc.</term>
+               <term>Decimal fractions --  Early works to 1800.</term>
+               <term>Mathematics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174268:1"/>
+            <pb facs="tcp:174268:1" rendition="simple:additions"/>
+            <p>A BRIEF (Yet full) ACCOUNT OF THE DOCTRINE OF <hi>Vulgar and Decimal</hi> FRACTIONS. WITH A Specimen of their Demonſtrations. <hi>By</hi> WILLIAM ALINGHAM, Teacher of the Mathematicks.</p>
+            <p>
+               <hi>LONDON,</hi> Printed; Sold by Mr. <hi>Mount</hi> at the <hi>Poſtern</hi> on <hi>Tower-Hill,</hi> Mr. <hi>Lea, Globe-maker</hi> in <hi>Cheapſide.</hi> Mr. <hi>Worgan, Mathe<g ref="char:EOLhyphen"/>matick-Inſtrument-maker,</hi> under St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet;</hi> and by the Author, at his Houſe in <hi>Channel-Row, Weſtminſter,</hi> 1698.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:174268:2"/>
+            <pb facs="tcp:174268:2" rendition="simple:additions"/>
+            <head>THE PREFACE.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THou art here preſented with a ſhort Treatiſe of <hi>Vulgar</hi> and <hi>Deci<g ref="char:EOLhyphen"/>mal Fractions,</hi> Quantities of ſuch great and general Uſe, that without the Knowledge of them there can be no Com<g ref="char:EOLhyphen"/>pleat, or Correct Accomptant.</p>
+            <p>I have therefore in this Critical Age adventnr'd to preſent the Publick with this ſmall Tract, in which I have en<g ref="char:EOLhyphen"/>deavoured to be Methodical and Plain, and to digeſt the Rules in ſuch Order, with ſeveral Exemplications of the ſame,
+<pb facs="tcp:174268:3"/>that I hope they will be rendred intelli<g ref="char:EOLhyphen"/>gible, and ſerviceable to the meaneſt Capacity.</p>
+            <p>Laſtly, I have added a Specimen of the Demonſtration of each particular O<g ref="char:EOLhyphen"/>peration: All which to the Ingenious I willingly preſent, hoping of their favour<g ref="char:EOLhyphen"/>able Acceptance; and that they may re<g ref="char:EOLhyphen"/>ceive ſome Benefit from the ſame, is the hearty Wiſh of their real Friend</p>
+            <closer>
+               <signed>W. Alingham.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:174268:3"/>
+            <head>THE DOCTRINE OF Vulgar Fractions.</head>
+            <div type="subpart">
+               <head>What a Fraction is, and how read.</head>
+               <p>AN <hi>Unite,</hi> or <hi>Integer,</hi> is one whole thing, as, one Pound, one Yard, one Gallon, one Hour, <hi>&amp;c.</hi>
+               </p>
+               <p>A <hi>Fraction,</hi> or <hi>broken Number,</hi> is a part, (or parts) of an Unite, or Integer; and is generally repreſented by two Numbers ſet one over the other, with a Line between them, thus, ½. ⅔. ¾. 5/7, &amp;c. The upper number is termed the <hi>Nu<g ref="char:EOLhyphen"/>merator;</hi> the lower the <hi>Denominator,</hi> they are read, or pronounced, thus, ½ is <hi>one half,</hi> ⅔ is <hi>two thirds,</hi> ¾ is <hi>three fourths,</hi> 5/7 is <hi>five ſevenths,</hi> and ſo of any other, naming the Numerator firſt, and the Denominator laſt; the Denominator
+<pb n="2" facs="tcp:174268:4"/>ſhewing the parts into which the Unite, or Integer, is broke, and the Numerator, the part, (or parts) of the Denominator that is to be taken, or uſed.</p>
+            </div>
+            <div type="subpart">
+               <head>Of the Varieties of Fractions.</head>
+               <p>OF <hi>Fractions,</hi> or broken Numbers, there are four ſorts, <hi>viz. Proper, Improper, Mixt</hi> and <hi>Compound.</hi>
+               </p>
+               <p>A <hi>proper Fraction</hi> is, that whoſe Nume<g ref="char:EOLhyphen"/>rator is leſſer than the Denominator, as ½. ⅔. ¾. ⅘. &amp;c.</p>
+               <p>An <hi>Improper Fraction,</hi> is, that whoſe Numerator is greater than (or, at leaſt e<g ref="char:EOLhyphen"/>qual to) the Denominator, as 4/3 5/2 6/6 4/4 &amp;c.</p>
+               <p>
+                  <hi>Mixt,</hi> are whole Numbers and Fracti<g ref="char:EOLhyphen"/>ons ſet together thus, 2⅓, 3⅚, 7¾, &amp;c.</p>
+               <p>
+                  <hi>Compound Fractions</hi> are known, by ha<g ref="char:EOLhyphen"/>ving the word <hi>[Of]</hi> betwixt them, and are written thus, ⅔ of ¾, alſo ¼ of ⅚ of ⅞. They are likewiſe called Fractions of Fra<g ref="char:EOLhyphen"/>ctions.</p>
+               <p>Now before we can paſs to the Rules of <hi>Addition, Subſtraction, Multiplication</hi> and <hi>Diviſion</hi> in Fractions, they muſt be pre<g ref="char:EOLhyphen"/>par'd, and made fit for ſuch Operation, and this preparation is perform'd by <hi>Re<g ref="char:EOLhyphen"/>duction,</hi> of which there are five kinds, as follows,</p>
+            </div>
+            <div type="subpart">
+               <pb n="3" facs="tcp:174268:4"/>
+               <head>Reduction the Firſt.</head>
+               <p>TEacheth how to reduce a whole, or mixt Number, into an <hi>Improper Fraction,</hi> which Fraction ſhall be equal in value to the ſaid whole, or mixt Num<g ref="char:EOLhyphen"/>ber: And contrary, that is, it teacheth to turn an improper Fraction into its Equi<g ref="char:EOLhyphen"/>valent whole, or mixt Number.</p>
+               <p>
+                  <hi>CASE</hi> I. If it be a whole Number, the Rule is, multiply it by the aſſign'd Denominator, ſeting the Product there<g ref="char:EOLhyphen"/>of for a Numerator over the ſaid Deno<g ref="char:EOLhyphen"/>minator, ſo ſhall this Fraction be equal to the given whole Number.</p>
+               <p>
+                  <hi>Example.</hi> Reduce 7 into an Improper Fraction, whoſe Denominator ſhall be 4.</p>
+               <p>
+                  <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <hi>Note,</hi> That theſe two Lines =is the ſign of Equality, as 7 =28/4 ſhows that 7 is equal to 28 Fourths.</p>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>Reduce
+<list>
+                        <item>5</item>
+                        <item>8</item>
+                        <item>9</item>
+                     </list> into a Fraction, whoſe Denom. is
+<list>
+                        <item>4</item>
+                        <item>6</item>
+                        <item>7</item>
+                     </list>
+                  </p>
+                  <pb n="4" facs="tcp:174268:5"/>
+                  <p>
+                     <hi>CASE</hi> 2. If a mixt Number is given to be reduc'd, the Rule is, multiply the whole Number by the Denominator of the Fraction, adding thereto its Numerator, the Sum ſhall be a new Numerator which, if ſet over the old Denominator will give a Fraction of the ſame value with the pro<g ref="char:EOLhyphen"/>pos'd mixt Number.</p>
+                  <p>
+                     <hi>Exam.</hi> Reduce 2¾ into an Improper Fraction.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>Reduce <list>
+                        <item>3 5/7</item>
+                        <item>6 2/3</item>
+                        <item>5 4/9</item>
+                     </list> into an Improper Fraction.</p>
+                  <p>
+                     <hi>CASE</hi> 3. If an Improper Fraction is to be reduced into its Equivalent whole, or mixt Number; the Rule is, divide the Numerator by the Denominator, ſo will the Quotient give a whole Number equal to the Fraction given.</p>
+                  <p>
+                     <hi>Exam.</hi> Reduce 28/4 into its Equivalent whole Number.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <pb n="5" facs="tcp:174268:5" rendition="simple:additions"/>
+                  <head>More Examples.</head>
+                  <p>Reduce <list>
+                        <item>20/4</item>
+                        <item>48/6</item>
+                        <item>6<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>/7</item>
+                     </list> into its Equivalent whole Numb.</p>
+                  <p>If after dividing any thing remain, ſet it for a Numerator over the Fractions Denominator, and join the ſaid Fraction to the Quotient.</p>
+                  <p>
+                     <hi>Exam.</hi> Reduce 11/4 into its Equivalent mixt Number.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>Reduce <list>
+                        <item>26/7</item>
+                        <item>20/3</item>
+                        <item>49/9</item>
+                     </list> into its Equivalent mixt Numb.</p>
+                  <p>
+                     <hi>This Reduction is abſolutely neceſſary, for there is no working with whole Numbers and Fractions, till the whole Numbers are turn'd into Fractions.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Reduction the Second.</head>
+               <p>TEacheth you how to reduce a com-Fraction to a Simple one, which ſhall have the ſame value with it.</p>
+               <div type="rule">
+                  <pb n="6" facs="tcp:174268:6" rendition="simple:additions"/>
+                  <head>RULE.</head>
+                  <p>Multiply all the Denominators one in<g ref="char:EOLhyphen"/>to another continually, and ſet the Pro<g ref="char:EOLhyphen"/>duct thereof for a Denominator; ſo like<g ref="char:EOLhyphen"/>wiſe multiply all the Numerators one in<g ref="char:EOLhyphen"/>to another, and ſet the Product for a Numerator over the former Denominator, the Fraction thus form'd is Equivalent to the given compound Fraction.</p>
+               </div>
+               <div type="examples">
+                  <head>Example,</head>
+                  <p>Reduce ¾ of 8/9 of 9/12 to a ſimple Fraction.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Reduce <list>
+                        <item>4/5 of 5/6 of 8/9</item>
+                        <item>3/6 of 6/7 of 7/9</item>
+                        <item>32/35 of 7/8 of 10/12</item>
+                     </list> to a ſimple Fraction</p>
+                  <p>
+                     <hi>This Reduction is likewiſe abſolutely ne<g ref="char:EOLhyphen"/>ceſſary, for there is no working with Com<g ref="char:EOLhyphen"/>pound Fractions, and others, till the ſaid Compound are reduc'd to Simple.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="subpart">
+               <pb n="7" facs="tcp:174268:6"/>
+               <head>Reduction the Third.</head>
+               <p>TEacheth how to abreviate a Fraction, or to find a Number that ſhall re<g ref="char:EOLhyphen"/>duce it to its loweſt Terms at one Oper<g ref="char:EOLhyphen"/>ation, yet ſtill keeping the ſame value it had at firſt.</p>
+               <div type="rule">
+                  <head>RULE <hi>1ſt.</hi>
+                  </head>
+                  <p>Divide the Numerator and Denomina<g ref="char:EOLhyphen"/>tor (if they be both even) by 2.4.6.8. &amp;c. (If the Numerator and Denominator be one even, and the other odd, then try ſome odd Number, as 3.5.7.9. &amp;c.) that will divide both without a remainder; repeat this Diviſion as often as you can, ſo ſhall the laſt Quotient of the Numera<g ref="char:EOLhyphen"/>tor be a new Numerator, and the laſt Quote of the Denominator, a new Denominator.</p>
+               </div>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>Reduce 216/432 into its loweſt Terms.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>Reduce <list>
+                        <item>160/270</item>
+                        <item>216/378</item>
+                        <item>2240/3360</item>
+                     </list> into its loweſt Terms.</p>
+                  <pb n="8" facs="tcp:174268:7"/>
+                  <p>But the general way of reducing a Fra<g ref="char:EOLhyphen"/>ction to its loweſt Terms, is, to find a Common Meaſurer, that is, the greateſt number, which will divide the Numera<g ref="char:EOLhyphen"/>tor and Denominator without a Remain<g ref="char:EOLhyphen"/>der, by which means a Fraction is brought to its loweſt terms at the firſt work: For finding of which the Rule is,</p>
+               </div>
+               <div type="rule">
+                  <head>RULE <hi>2d.</hi>
+                  </head>
+                  <p>Divide the Denominator by the Nu<g ref="char:EOLhyphen"/>merator, and if any thing remain by it, divide the former Diviſor, and if after this diviſion any thing remain, divide the laſt diviſor by it: <hi>Proceed</hi> thus till nothing remain, ſo ſhall the laſt Diviſor be the greateſt common Meaſurer, and is a Number that will divide both Numera<g ref="char:EOLhyphen"/>tor and Denominator without a Remain<g ref="char:EOLhyphen"/>der, and ſo reduce the Fraction to its loweſt terms at one Operation: But, if after all the Diviſions are ended there temains one, then is ſuch Fraction in its loweſt terms already.</p>
+               </div>
+               <div type="examples">
+                  <p>
+                     <hi>Exam.</hi> Reduce 216/432 to its loweſt Terms.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="9" facs="tcp:174268:7"/>
+                  <p>So that 216 is the common Meaſurer, and is the greateſt Number that will di<g ref="char:EOLhyphen"/>vide the Numerator and Denominator without a Remainder. See the work</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>After this method you may try the Examples given, in the firſt Rule of this Reduction.</p>
+                  <p>
+                     <hi>This Reduction is alſo very uſeful, for by it Fractions that are expreſs'd by great Numbers, are made to be expreſs'd by ſmal<g ref="char:EOLhyphen"/>ler, ſo that their true value is more eaſily and readily known.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Reduction the Fourth.</head>
+               <p>TEacheth how to bring Fractions of divers denominations into Fractions of one denomination, yet ſtill retaining the ſame value.</p>
+               <div type="rule">
+                  <head>RULE.</head>
+                  <p>Multiply all the Denominators conti<g ref="char:EOLhyphen"/>nually one into another, and ſet the pro<g ref="char:EOLhyphen"/>duct thereof for a new Denominator; then multiply the Numerator of the firſt Fraction into all the Denominators, ex<g ref="char:EOLhyphen"/>cept its own, the product is the Nume<g ref="char:EOLhyphen"/>rator of the firſt Fraction, and muſt be
+<pb n="10" facs="tcp:174268:8"/>ſet over the Denominator before found. So likewiſe for the ſecond Fraction you muſt multiply its Numerator into all the Denominators, except its own, the pro<g ref="char:EOLhyphen"/>duct is the Numerator of the ſecond Fra<g ref="char:EOLhyphen"/>ction. <hi>Proceed</hi> thus with the reſt of the Numerators, <hi>that is,</hi> Multiply each Nu<g ref="char:EOLhyphen"/>merator by all the Denominators, except its own, ſeting the ſeveral Products for new Numerators over the common De<g ref="char:EOLhyphen"/>nominator firſt found, ſo ſhall theſe new Fractions be of one denomination, and e<g ref="char:EOLhyphen"/>quivalent to the former.</p>
+               </div>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>Reduce ⅔ and 4/7 and ⅚ into one Denomina<g ref="char:EOLhyphen"/>tion.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="11" facs="tcp:174268:8"/>
+                  <p>So that <list>
+                        <item>2/3 = 84/126</item>
+                        <item>4/7 = 72/126</item>
+                        <item>5/6 = 105/126</item>
+                     </list>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Example.</head>
+                  <p>Reduce <list>
+                        <item>2/5 &amp; 1/7 &amp; 5/6</item>
+                        <item>3/7 &amp; 1/2 &amp; 5/8</item>
+                        <item>3/2 &amp; <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>/5 &amp; 7/9</item>
+                     </list> into one denomination</p>
+               </div>
+               <div type="note">
+                  <head>Note <hi>1ſt.</hi>
+                  </head>
+                  <p>If mixt Numbers are given thus to be reduc'd, reduce only the fractional parts.</p>
+               </div>
+               <div type="note">
+                  <head>Note <hi>2d.</hi>
+                  </head>
+                  <p>If compound Fractions are to be re<g ref="char:EOLhyphen"/>duc'd to one Denomination, they muſt firſt be brought to ſimple ones by <hi>Redu<g ref="char:EOLhyphen"/>ction</hi> the Second.</p>
+                  <p>
+                     <hi>This Reduction is alſo highly neceſſary, for before Fractions are brought to the ſame De<g ref="char:EOLhyphen"/>nomination, they neither can be Added, nor Subſtracted.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Reduction the Fifth.</head>
+               <p>TEacheth how to alter, or change, a Fraction into another equal in va<g ref="char:EOLhyphen"/>lue that ſhall have any aſſign'd Deno<g ref="char:EOLhyphen"/>minator.</p>
+               <div type="rule">
+                  <pb n="12" facs="tcp:174268:9"/>
+                  <head>RULE.</head>
+                  <p>Multiply the Numerator of the Frac<g ref="char:EOLhyphen"/>tion by the aſſign'd Denominator, and divide the Product by the old Denomi<g ref="char:EOLhyphen"/>nator, the Quotient is the Numerator to the intended Denominator.</p>
+               </div>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>Reduce 84/126 into a Fraction, whoſe De<g ref="char:EOLhyphen"/>nominator ſhall be 3.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>Reduce <list>
+                        <item>84/210</item>
+                        <item>48/112</item>
+                        <item>135/360</item>
+                     </list> into a Fraction that ſhall have
+<list>
+                        <item>5</item>
+                        <item>7</item>
+                        <item>8</item>
+                     </list> for a Den.</p>
+                  <p>
+                     <hi>Note,</hi> If a compound Fraction is thus to be reduc'd, then by <hi>Reduction</hi> 2d. turn it to a ſimple, and then work as the pre<g ref="char:EOLhyphen"/>ceding Rule directs.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>How to find the value of a Fraction.</head>
+               <p>This Reduction is the moſt uſeful of all others, for by it the value of any
+<pb n="13" facs="tcp:174268:9"/>Fraction is found in the known parts of Coyn, Weight, Time, <hi>&amp;c. And contrary, that is,</hi> any part of Coyn, Weight, Time, <hi>&amp;c.</hi> is turn'd into a Fraction; the method of doing which is as follows,</p>
+               <p>Multiply the Numerator by the parts of the next inferior Denominator, that are equal to an Unite of the ſame, that the Fraction gives the parts of; the Product divide by the Denominator, the Quote gives the value in the parts you multi<g ref="char:EOLhyphen"/>ply'd by: If after this Diviſion any thing remain, multiply it by the next inferior Denomination, dividing the Product by the Denominator, as before. <hi>Thus proceed,</hi> till you can bring it no lower, ſo will the ſeveral Quotients give the required value of the given Fraction.</p>
+               <div type="examples">
+                  <head>Example <hi>1ſt.</hi>
+                  </head>
+                  <p>
+                     <hi>What's the</hi> 6/8 <hi>of a Shilling.</hi>
+                  </p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>But if when it be brought to the low<g ref="char:EOLhyphen"/>eſt Terms any thing remain, place it
+<pb n="14" facs="tcp:174268:10"/>for a Numerator over the former Deno<g ref="char:EOLhyphen"/>minator.</p>
+               </div>
+               <div type="examples">
+                  <head>Example <hi>2d.</hi>
+                  </head>
+                  <p>
+                     <hi>What's the</hi> 17/19 <hi>of a Pound ſterling.</hi>
+                  </p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>Example <hi>3d.</hi>
+                  </head>
+                  <p>
+                     <hi>What's the</hi> 5/9 <hi>of a Pound weight, Averdu<g ref="char:EOLhyphen"/>poize.</hi>
+                  </p>
+                  <pb n="15" facs="tcp:174268:10"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>After this method may the value of any Fraction be found (whether it be of <hi>Coyne, Weight, Time, Liquor Meaſure, Long Meaſure,</hi> &amp;c.) and given in known and familiar Terms, as in the ſecond Ex<g ref="char:EOLhyphen"/>ample, where the value of 17/19 of a Pound ſterling was required. I anſwer, that it is 17 Shillings 10 Pence Half-penny, and 18/19 of a Farthing. So likewiſe in the third Example, where the 5/9 of a pound weight Averdupoize was required; there I an<g ref="char:EOLhyphen"/>ſwer, that it was 8 Ounces, 14 Drams, and 2/9 of a Dram.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <pb n="16" facs="tcp:174268:11"/>
+               <head>How to turn any part of Coyn, Time, Weight, <hi>&amp;c.</hi> into a Fraction.</head>
+               <p>THis is but the Converſe of the for<g ref="char:EOLhyphen"/>mer, and therefore (from a little conſideration of what foregoes) may be eaſily effected: For if you do but conſider that 1 Shilling is the 1/20 of a Pound ſterling, and 1 Penny the 1/12 of a Shilling, and 1 Farthing the ¼ of a Pen<g ref="char:EOLhyphen"/>ny: The Names of a Shilling, a Penny, and a Farthing, being only Denominati<g ref="char:EOLhyphen"/>ons given them, for the Vulgar in our Nation to know them by, the more uni<g ref="char:EOLhyphen"/>verſal way of expreſſing them, being to call a Shilling the 1/20 of a Pound, and a Penny the 1/12 of a Shilling, alſo a Far<g ref="char:EOLhyphen"/>thing the ¼ of a Penny: And this way of expreſſing them (ſuppoſing the value of the Pound known) would be intelliga<g ref="char:EOLhyphen"/>ble to all Nations that have the know<g ref="char:EOLhyphen"/>ledg of Numbers; ſo that if it were re<g ref="char:EOLhyphen"/>quir'd to know what part of a Shilling 9 <hi>d.</hi> is, I anſwer, that 'tis 9/12, or when abreviated ¾. In like manner, if it were required to know what part of a pound 4 Shillings, it is evident that 'tis 4/20 or ⅕. But if it were requir'd to know what part of a Pound 1 Penny is, here I muſt
+<pb n="17" facs="tcp:174268:11"/>conſider that 1 Penny is the 1/12 of 1/20 of a Pound, and therefore if by <hi>Reduction</hi> the 2d. I reduce it to a ſimple Fraction, 'twill be 1/240 of a pound Sterling, ſo a Farthing is ¼ of 1/12 of 1/20 of a pound, and therefore the 1/960 of a pound: Laſtly, if it be required to know what part of a Pound 13 <hi>s.</hi> 5 <hi>d.</hi> ¼ is, then reducing all into Far<g ref="char:EOLhyphen"/>things, it gives 645; and likewiſe find<g ref="char:EOLhyphen"/>ing the Farthings in one pound which is 960, and ſeting the former over the la<g ref="char:EOLhyphen"/>ter fraction-wiſe gives 645/960, the part of a pound that 13 <hi>s.</hi> 5 <hi>d.</hi> ¼ is.</p>
+               <p>After the ſame manner may any part of Weight, Time, Meaſure, &amp;c. be expreſ<g ref="char:EOLhyphen"/>ſed Fraction-wiſe.</p>
+               <div type="examples">
+                  <head>Some Examples, with their Anſwers.</head>
+                  <p>What's the 13/14 of a Pound ſterling. <hi>Anſwer,</hi> 18 <hi>s.</hi> 6 <hi>d.</hi> ¾ <hi>q.</hi> 3/7.</p>
+                  <p>What's the 6/7 of a Guinea at 22 <hi>s. Anſwer,</hi> 15 <hi>s.</hi> 8 <hi>d.</hi> ½ <hi>q.</hi> 2/7.</p>
+                  <p>What's the ⅜ of a Piſtole at 17 <hi>s.</hi> 10 <hi>d. Anſwer,</hi> 6 <hi>s.</hi> 8 <hi>d.</hi> ¼.</p>
+                  <p>What's the 2/9 of a pound Weight Aver<g ref="char:EOLhyphen"/>dupoize. <hi>Anſwer,</hi> 3 <hi>Oun.</hi> 8 <hi>Dr.</hi> 8/9.</p>
+                  <p>What's the 6/7 of a Year, at 365 days. <hi>Anſwer,</hi> 312 <hi>days,</hi> 20 <hi>hours,</hi> 34 <hi>min.</hi> 2/7.</p>
+                  <p>What part of a Pound ſterling is 2 <hi>s.</hi> 9 <hi>d. Anſwer,</hi> 33/249.</p>
+                  <pb n="18" facs="tcp:174268:12"/>
+                  <p>What part of a pound Averdupoize is 11 Ounces 2 Drams ¼. <hi>Anſwer</hi> 713/1024.</p>
+                  <p>What part of a Year is 29 days, 14 hours. <hi>Anſwer,</hi> 710/8760.</p>
+                  <p>The reaſon of this Reduction is very evident, for in a given Fraction ſuppoſe ⅔, ſuch proportion as the Denominator 3 has to its Numerator 2. ſuch proportion has any aſſign'd Denominator, ſuppoſe 6, to a Numerator correſponding to it, ſo that ſtating the Queſtion according to the Rule of Three, <hi>viz.</hi> If 3 give 2, what ſhall 6 give, and then as is directed multiplying the ſecond term 2, which is the Numera<g ref="char:EOLhyphen"/>tor, by the third term 6 the aſſign'd Deno<g ref="char:EOLhyphen"/>minator, dividing the product by the firſt term 3 the old Denominator, you get 4 for the Quotient, which is a new Nu<g ref="char:EOLhyphen"/>merator to the aſſign'd Denominator.</p>
+                  <p>
+                     <hi>'Tis by this Reduction we turn a Vulgar Fraction to a Decimal,</hi> &amp; contra, <hi>alſo by it all the Decimal Tables are calculated, of which more ſhall be ſaid when I come to treat of Decimals.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Addition of Vulgar Fractions.</head>
+               <p>IF the Fractions to be added have not like Denominators, they muſt be re<g ref="char:EOLhyphen"/>duc'd to a common Denominator by Re<g ref="char:EOLhyphen"/>duction
+<pb n="19" facs="tcp:174268:12"/>the 4th. Then add the Numera<g ref="char:EOLhyphen"/>tors together, and ſet the Summ for a Numerator over the common Denomina<g ref="char:EOLhyphen"/>tor, ſo ſhall the Fraction thus found be the Summ of the given Fractions.</p>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>What's the Summ of ⅔ and 5/7.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Obſerve if the Fraction that is the Summ of thoſe two given, happen to be an Impro<g ref="char:EOLhyphen"/>per Fraction, then by Reduction the 1ſt. Rule the 3d. reduce it into its equiva<g ref="char:EOLhyphen"/>lent whole, or mixt Number as in the laſt <hi>Exam.</hi>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>What's the Summ of
+<list>
+                        <item>⅖</item>
+                        <item>4/9</item>
+                     </list>
+                  </p>
+                  <p>What's the Summ of
+<list>
+                        <item>4/7</item>
+                        <item>6/9</item>
+                        <item>⅖</item>
+                     </list>
+                  </p>
+               </div>
+               <div type="note">
+                  <head>Note <hi>1.</hi>
+                  </head>
+                  <p>If you are to add mixt Numbers, add only the fractional parts, being firſt reduc'd to a common Denominator by Reduction the 4th.</p>
+               </div>
+               <div type="note">
+                  <pb n="20" facs="tcp:174268:13"/>
+                  <head>Note <hi>2.</hi>
+                  </head>
+                  <p>If compound Fractions are to be add<g ref="char:EOLhyphen"/>ed one to another, or to ſimple Fracti<g ref="char:EOLhyphen"/>ons, then ſuch Compound Fractions muſt be reduc'd to ſimple ones (by Reduction the 2d.) and thoſe again to one Denomi<g ref="char:EOLhyphen"/>nation by Reduction the 4th.</p>
+               </div>
+               <div type="note">
+                  <head>Note <hi>3.</hi>
+                  </head>
+                  <p>If the Fractions to be added are not parts of the ſame whole, but the one parts of a Shilling, the other of a Pound, then (by Reduction the 5th.) they muſt be brought to one Name, or Denomina<g ref="char:EOLhyphen"/>tion, <hi>i. e.</hi> both muſt be made parts of the ſame whole.</p>
+               </div>
+               <div type="examples">
+                  <head>As for Example.</head>
+                  <p>What's the Summ of ⅗ of a Pound, and ⅔ of a Shilling.</p>
+                  <p>Here they are not only of different demominations, but parts of different Wholes, and therefore is more properly worded thus,</p>
+                  <p>What's the Summ of ⅗ and ⅔ of 1/20 of a Pound ſterling. <hi>Anſwer,</hi> 190/300.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <pb n="21" facs="tcp:174268:13"/>
+               <head>Subſtraction of Vulgar Fractions.</head>
+               <p>THE Rules delivered for reducing and making Fractions fit for Addition, are in all reſpects and caſes to be ob<g ref="char:EOLhyphen"/>ſerv'd in Subſtraction; ſo that whether they are Mixt, Compound, or ſimple ones, they muſt be reduc'd to a common Denominator; then take the Numerator of the Subſtractor, or Fraction, to be Subſtracted, from the Numerator of the Subſtrahend (or Fraction from which we are to Subſtract) and ſet the remainder over the common Denominator, ſo is this new Fraction the remainder or difference ſought.</p>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>From 1 8/21 or 29/21 ſubſtract ⅔.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>From 38/45 Subſtract 4/9.</p>
+                  <p>From 201/315 Subſtract ⅗.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <pb n="22" facs="tcp:174268:14"/>
+               <head>Multiplication of Vulgar Fractions.</head>
+               <p>IF they be ſimple Fractions to be Mul<g ref="char:EOLhyphen"/>tiply'd. Then Multiply the two Nu<g ref="char:EOLhyphen"/>merators, together, for a Numerator, and the two Denominators for a Denomina<g ref="char:EOLhyphen"/>tor, ſo ſhall the Fraction formed by theſe two Numbers be the product Required.</p>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>Multiply ⅝ by ⅘.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples</head>
+                  <list>
+                     <item>Multiply 7/9; by 8/11.</item>
+                     <item>Multiply ⅚ by 2/7.</item>
+                     <item>Multiply ⅘ by ¾.</item>
+                  </list>
+               </div>
+               <div type="note">
+                  <head>Note <hi>1ſt.</hi>
+                  </head>
+                  <p>If mixt Numbers are to be Multiply'd then before you can Multiply them they muſt be Reduc'd into Improper Fractions by Reduction the <hi>1ſt.</hi> Rule the <hi>1ſt.</hi> and <hi>2d.</hi>
+                  </p>
+               </div>
+               <div type="note">
+                  <pb n="23" facs="tcp:174268:14"/>
+                  <head>Note <hi>2d.</hi>
+                  </head>
+                  <p>If they be Compound Fractions, Re<g ref="char:EOLhyphen"/>duce them to ſimple ones.</p>
+               </div>
+               <div type="note">
+                  <head>Note <hi>3d.</hi>
+                  </head>
+                  <p>If a whole Number is to be Nultiplyed by a Fraction, then make the whole Number an Improper Fraction by ſetting one under it.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Diviſion of Vulgar Fractions.</head>
+               <p>IF the Fraction to be divided, and alſo the Fraction by which we divide, <hi>that is,</hi> Dividend and Diviſor, be both ſimple Fractions, then Multiply the Numerator of the Dividend by the Denominator of the Diviſor, and ſet the product for a Numerator; multiply alſo the Denomi<g ref="char:EOLhyphen"/>nator of the Dividend, by the Numera<g ref="char:EOLhyphen"/>tor of the Diviſor, and take the product for a Denominator; the Fraction thus form'd is the Quotient.</p>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>Divide 20/40 by ⅘.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <pb n="24" facs="tcp:174268:15"/>
+                  <head>More Examples.</head>
+                  <list>
+                     <item>Divide 56/99 by 7/9.</item>
+                     <item>Divide 10/42 by 2/7.</item>
+                     <item>Divide 12/20 by ⅘.</item>
+                  </list>
+               </div>
+               <div type="note">
+                  <head>Note <hi>1ſt.</hi>
+                  </head>
+                  <p>If either Dividend, Diviſor or both, be whole or mixt Numbers, reduce them into Improper Fractions, by Reduction the 1ſt. Rule 1ſt. or 2d. and then divide according to the preceding Rule.</p>
+               </div>
+               <div type="note">
+                  <head>Note <hi>2d.</hi>
+                  </head>
+                  <p>If they be Compound Fractions re<g ref="char:EOLhyphen"/>duce them to ſimple ones by Reduction the 2d.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>The Rule of Three Direct in Fractions.</head>
+               <p>THE Directions given, both for ſtat<g ref="char:EOLhyphen"/>ing and working Queſtions in the Rule of Three in whole Numbers, holds alſo in this of Fractions; ſo that having framed your Queſtion, as is there direct<g ref="char:EOLhyphen"/>ed, 'tis but Multiplying the Fractions in the <hi>2d.</hi> and <hi>3d.</hi> place together, and di<g ref="char:EOLhyphen"/>vided the product by the firſt, according
+<pb n="25" facs="tcp:174268:15"/>to the preceding Rules given for Multi<g ref="char:EOLhyphen"/>plying and dividing of Fractions, the Quotient is the Anſwer to the Queſtion.</p>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>If ⅔ of a Yard of Cloath coſt 5/7 of a Pound, what Coſt 7/8 of a Yard at that Rate.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="proof">
+                  <head>Proof.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>If 8/9 of a pound Troy coſt 5/7 of a Gui<g ref="char:EOLhyphen"/>nea, at 22 s. What ſhall 9/11 of a pound coſt. <hi>Anſwer</hi> 405/616. or 14 <hi>s.</hi> 5 <hi>d.</hi> ½ 22/77.</p>
+                  <p>If ⅘ of a pound Troy coſt 3/7 of a No<g ref="char:EOLhyphen"/>ble, What will 14/15 of a Noble buy. <hi>An<g ref="char:EOLhyphen"/>ſwer.</hi> 392/225 or 1 pound 167/225.</p>
+                  <p>If 7/12 of an Hundred weight coſt 34 <hi>s.</hi> 2/14, What will 19 Hundred weight ¾ coſt. <hi>Anſwer</hi> 453144/392 or 1155 384/392.</p>
+                  <p>
+                     <hi>Note</hi> 1. If there be mixt Numbers, reduce them to Improper Fractions.</p>
+                  <pb n="26" facs="tcp:174268:16"/>
+                  <p>
+                     <hi>Note</hi> 2. If any of the given Fractions be Compound, that is Fractions of Fracti<g ref="char:EOLhyphen"/>ons, they muſt be reduc'd to ſimple Fra<g ref="char:EOLhyphen"/>ctions by Reduction the 2d.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>The Rule of Three Reverſe in Fractions.</head>
+               <p>HEre alſo, as in that of whole Num<g ref="char:EOLhyphen"/>bers, you are to Multiply the ſe<g ref="char:EOLhyphen"/>cond Term by the firſt, and divide the pro<g ref="char:EOLhyphen"/>duct by the third, the Quotient anſwers the Queſtion.</p>
+               <div type="examples">
+                  <head>Example.</head>
+                  <p>If 2/5; of a Yard of Cloath that is a yard broad will make a Garment, How much of 3 Yards wide will make the ſaid Gar<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="proof">
+                  <head>Proof.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>If 54 Men can build a Houſe in 38 days ⅔, How many Men will build the ſaid Houſe in 11 days ⅚. <hi>Anſwer</hi> 176 Men 96/213.</p>
+                  <pb n="27" facs="tcp:174268:16"/>
+                  <p>Lent my Friend ⅝ of a pound for ⅔ of a Year, How much ought he to lend me for 2 Years, to recompence my kindneſs. <hi>Anſwer</hi> 5/24.</p>
+                  <p>If when a Buſhel of Wheat is ſold for 5 ſhillings ⅔, the penny white Loaf weighs 7 Ounces ¾, What muſt it weigh when the Buſhel of Wheat coſt 6 ſhillings 4/7. <hi>Anſwer,</hi> 6 Ounces 377/552.</p>
+               </div>
+            </div>
+            <div type="sample_questions">
+               <head>A Collection of pleaſant and uſeful Que<g ref="char:EOLhyphen"/>ſtions to Exerciſe the Rules of Vul<g ref="char:EOLhyphen"/>gar Fractions,</head>
+               <div type="question_set">
+                  <head>By Reduction 5th.</head>
+                  <p>WHat's the ⅔ of 17 <hi>s. Anſwer</hi> 11 <hi>s.</hi> 4 <hi>d.</hi> What's the 5/7 of ⅖ of a Guinea at 21 <hi>s.</hi> 2 <hi>d. Anſwer,</hi> 6 <hi>s.</hi> 00 <hi>d.</hi> ½ <hi>q.</hi> 2/7.</p>
+                  <p>What's the ⅔ of half a Mark. <hi>Anſwer</hi> 4 <hi>s.</hi> 5 <hi>d.</hi> ¼ <hi>q.</hi> ⅓.</p>
+                  <p>What's the ⅗ of a Dollar at 4 <hi>s.</hi> 2 <hi>d. Anſwer,</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+                  </p>
+                  <p>What's the 7/9 of 5 pounds. <hi>Anſwer,</hi> 3 <hi>l.</hi> 17 <hi>s.</hi> 9 <hi>d.</hi> ¼ <hi>q.</hi> ⅓.</p>
+                  <p>What's the ⅝ of 13 <hi>d.</hi> ½ <hi>Anſwer</hi> 8 <hi>d.</hi> ¼ <hi>q.</hi> ¾.</p>
+                  <pb n="28" facs="tcp:174268:17"/>
+                  <p>What's the 3/7 of 8 Ounces ½ Troy weight. <hi>Anſwer</hi> 3 <hi>oz.</hi> 12 <hi>dwt.</hi> 20 <hi>gr.</hi> 4/7.</p>
+                  <p>What's the 7/9 of 15 days 3 hours. <hi>An<g ref="char:EOLhyphen"/>ſwer,</hi> 11 <hi>days</hi> 18 <hi>hours</hi> 20 <hi>minutes.</hi>
+                  </p>
+               </div>
+               <div type="question_set">
+                  <head>By Reduction 2d. and 5th.</head>
+                  <p>What's the ½ of ⅔ of a piſtole at 18 <hi>s. Anſwer,</hi> 6 <hi>s.</hi>
+                  </p>
+                  <p>What's the 5/7 of 8/9 of a Ducat at 7 <hi>s.</hi> 3 <hi>d. Anſwer</hi> 4 <hi>s.</hi> 7 <hi>d.</hi> 0 <hi>q.</hi> 20/21.</p>
+                  <p>What's the ¾ of ⅚ of ⅞ of a Guinea at 22 <hi>s.</hi> 2 <hi>d. Anſwer,</hi> 12 <hi>s.</hi> 1 <hi>d.</hi> ¼ <hi>q.</hi> ⅞.</p>
+                  <p>What's the ⅜ of ⅕ of 13 <hi>l.</hi> 4 <hi>s.</hi> 7 <hi>d. An<g ref="char:EOLhyphen"/>ſwer</hi> 19 <hi>s.</hi> 10 <hi>d.</hi> 0 <hi>q.</hi> ⅛.</p>
+                  <p>What's the ⅔ of ¾ of 5 Nobles. <hi>Anſwer</hi> 16 <hi>s.</hi> 8 <hi>d.</hi>
+                  </p>
+                  <p>What's the ⅖ of ½ of ¼ of 1 <hi>lib.</hi> 3 <hi>oz.</hi> 2 <hi>dwt.</hi> Troy. <hi>Anſwer,</hi> 15 <hi>dwt.</hi> 2 <hi>gr.</hi> ⅖.</p>
+               </div>
+            </div>
+            <div type="sample_questions">
+               <head>Queſtions that Exerciſe moſt of the pre<g ref="char:EOLhyphen"/>ceding <hi>Rules.</hi>
+               </head>
+               <p>HOw much is ⅔ of ⅚ and ¾ of ½ of a Jacobus at 25 <hi>s. Anſwer</hi> 1 <hi>l.</hi> 3 <hi>s.</hi> 3 <hi>d.</hi> 0 <hi>q.</hi> ⅔.</p>
+               <p>How much is ½ of ⅔ and ⅞ of 9/10. of a Hundred weight Averdupoize. <hi>Anſwer,</hi> 1 <hi>c.</hi> 0 <hi>q.</hi> 13 <hi>lib.</hi> 8/15.</p>
+               <pb n="29" facs="tcp:174268:17"/>
+               <p>What Quantity is that, from which if I take 3 5/7 the remainder ſhall be 1 ⅖. <hi>An<g ref="char:EOLhyphen"/>ſwer,</hi> 5 4/35.</p>
+               <p>What Quantity is that. from which if I take ½ of 5/9 the remainder ſhall be 2/7 of 5. <hi>Anſwer,</hi> 1 89/126.</p>
+               <p>What's the difference betwixt ½, ⅓ and ¼, and a whole Unite. <hi>Anſwer,</hi> 1/12.</p>
+               <p>What Quantity is that, to which if I add 3 5/7 the Summ will be 5 4/35. <hi>An<g ref="char:EOLhyphen"/>ſwer</hi> 1 ⅖.</p>
+               <p>What Quantity is that, to which if I add ⅕ of 9/7, the Summ will be 1 89/126. <hi>An<g ref="char:EOLhyphen"/>ſwer</hi> 1681/4410</p>
+               <p>A perſon has 2/7 and 1/11 of a Mine, What part is that of the whole. <hi>An<g ref="char:EOLhyphen"/>ſwer,</hi> 29/77.</p>
+               <p>Another Miner has ¾ and 5/7 and 1/16 of a Mine, What ſhare or part is that of the whole. <hi>Anſwer</hi> 107/112</p>
+               <p>A Merchant has 3/16 and ½ of ¼ of a ſhare in the Cargo of a ſhip, What part is that of the whole. <hi>Anſwer</hi> 40/128. or 5/16.</p>
+               <p>Another perſon has ⅕ of ⅛ and 1/11 of ⅔ of a ſhip, how much is that of the whole. <hi>Anſwer,</hi> 113/1320.</p>
+               <p>
+                  <hi>Such Queſtions as the four laſt, are fre<g ref="char:EOLhyphen"/>quent among thoſe that have parts in Mines, or Ships.</hi>
+               </p>
+               <pb n="30" facs="tcp:174268:18"/>
+               <p>What's the product of 3 <hi>s.</hi> 6 <hi>d.</hi> by 3 <hi>s.</hi> 6 <hi>d. Here you are to conſider that</hi> 6 d. <hi>is a part of a Shilling, and therefore the Que<g ref="char:EOLhyphen"/>ſtion more rightly propos'd is,</hi> What's the product of 3 ½ by 3 ½. <hi>Anſwer</hi> 49/4 or 12 ¼ <hi>that is</hi> 12 <hi>s.</hi> 3 <hi>d.</hi>
+               </p>
+               <p>Again, What's the product of 3 <hi>l.</hi> 19 <hi>s.</hi> 11 <hi>d.</hi> by 3 <hi>l.</hi> 19 <hi>s. 11 <hi>d.</hi> Here (as before) conſider,</hi> that 19 <hi>s.</hi> 11 <hi>d.</hi> is 239/240 <hi>of a Pound ſterling: And ſo the Queſtion more rightly ſtated is,</hi> What's the product of 3 239/240 by 3 239/240. <hi>Anſwer,</hi> 919681/57600 or 15 <hi>l.</hi> &amp; 55681/57600 of a pound.</p>
+               <p>A certain Perſon having ⅗ parts of a Coal Mine, ſells ¾ of his ſhare for 171 <hi>l.</hi> What is the whole Coal Mine worth. <hi>An<g ref="char:EOLhyphen"/>ſwer,</hi> 380 <hi>l.</hi>
+               </p>
+               <p>A Father dying left his Son a certain portion, of which he ſpent ¼; then of the reſt he ſpent ½, and then he had 252 <hi>l.</hi> What was the Portion the Father gave him. <hi>Anſwer,</hi> 672 <hi>l.</hi>
+               </p>
+               <p>When the ⅖ of ¾ of a ſhip is 147 <hi>l.</hi> 11 <hi>s.</hi> 3 <hi>d.</hi> How much is the whole. <hi>Anſwer,</hi> 491 <hi>l.</hi> 17 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>A Merchant bought ⅔ of ¾ of a ſhip, another buys ⅜ of ⅘ of the ſame, the Queſtion is, Whether their parts were equal, and if not, which had the big<g ref="char:EOLhyphen"/>geſt
+<pb n="31" facs="tcp:174268:18"/>of the two. <hi>Anſwer,</hi> the firſt Mer<g ref="char:EOLhyphen"/>chant by ⅕.</p>
+               <p>A younger Brother received 210 <hi>l.</hi> which was ⅜ of ⅔ of his Elder Brother's Portion: Now 3 ½ times his Elder Bro<g ref="char:EOLhyphen"/>ther's Portion was 1 ⅓ time his Father's Eſtate, I demand what his Father's Eſtate was. <hi>Anſwer,</hi> 2205 <hi>l.</hi>
+               </p>
+               <p>A Perſon making his Will gave to one Child ⅖ of ¾ of his Eſtate, and to another ⅚ of ⅔ of his Eſtate, and when they counted their Portions, the one had 543 <hi>l.</hi> 1 <hi>s.</hi> 9 <hi>d.</hi> more than the other, I demand how much each had, and what was their Father's Eſtate. <hi>Anſwer, The firſt had</hi> 673 <hi>l.</hi> 10 <hi>s.</hi> 9 <hi>d. and the ſecond</hi> 1180 <hi>l.</hi> 12 <hi>s.</hi> 6 <hi>d. and their Fathers Eſtate was</hi> 2125 <hi>l.</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>A certain Perſon gave to one of his Children ¾ of ⅖ of his Eſtate, and of the Remainder he gave another ⅜ of ⅔, and when they told their Money, the one had 173 <hi>l.</hi> 12 <hi>s.</hi> 4 <hi>d.</hi> more than the other, How much had each, and what was their Father's Eſtate. <hi>Anſwer,</hi> the firſt had 416 <hi>l.</hi> 13 <hi>s.</hi> 7 <hi>d.</hi> ⅕. The Second 243 <hi>l.</hi> 1 <hi>s.</hi> 3 <hi>d.</hi> ⅕. And their Father's Eſtate was 3388 <hi>l.</hi> 18 <hi>s.</hi> 8 <hi>d.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="32" facs="tcp:174268:19"/>
+            <head>THE DOCTRINE OF Decimal Fractions.</head>
+            <p>WHAT a Fraction is, and how read, I have already declared in the Doctrine of Vulgar Fractions, and therefore I ſhall here only ſhew the dif<g ref="char:EOLhyphen"/>ferent way of Noting theſe from that of Vulgar, with their great uſe in the Solu<g ref="char:EOLhyphen"/>tion of ſeveral Arithmetick Queſtions.</p>
+            <p>A <hi>Decimal Fraction</hi> is that which hath for its Denominator an Unite, with a cer<g ref="char:EOLhyphen"/>tain Number of Cyphers as 10, 100, 1000, 10000, <hi>&amp;c.</hi> are all Denominators of Decimal Fractions.</p>
+            <p>Hence 'tis evident, that we divide the Unite into 10, 100, 1000, 10000, <hi>&amp;c.</hi> equal parts. For dividing it firſt into 10 equal parts, and each of thoſe are
+<pb n="33" facs="tcp:174268:19"/>again divided into 10 other equal parts; ſo that the Unite will then be divided into 100 equal parts; and if again we divide each of thoſe hundred equal parts into ten other equal parts, the Unite or Integer will be divided into 1000 equal parts; And ſo by Decimating the firſt, and Subdecimating the ſecond, we pro<g ref="char:EOLhyphen"/>ceed <hi>ad infinitum.</hi>
+            </p>
+            <p>Now becauſe all the Denominators of Decimal Fractions differ only in the Number of places, and not in the Figures, they being always an Unite with Cy<g ref="char:EOLhyphen"/>phers, they may be expreſs'd without their Denominators with a point before them, as 6/10 is thus expreſs'd .6, and 54/100 thus .54, alſo 27/1000 thus .027 And ob<g ref="char:EOLhyphen"/>ſerve, that this point diſtinguiſhes them from whole Numbers.</p>
+            <p>Hence the Denominator of a Decimal Fraction is eaſily known by the places of the Numerator, the Denominator being always one place more, as .6 hath 10 for its Denominator, and .54 hath 100, and .027 hath 1000 for its Denomina<g ref="char:EOLhyphen"/>tor, underſtand the like of any other.</p>
+            <p>The order of places in Decimals is from left to right, and therefore contra<g ref="char:EOLhyphen"/>ry to the order of places in a whole Num<g ref="char:EOLhyphen"/>ber
+<pb n="34" facs="tcp:174268:20"/>which is from right to left, as in this Decimal .548, here 5 is in the firſt place next the left hand, and ſignifies ſo many tenth parts of an Unite, and is therefore called <hi>Primes;</hi> the 4 which is in the ſecond place, ſignifies ſo many hundred parts of an Unite, and is called <hi>Seconds;</hi> the figure 8 which poſſeſſes the third place from the left hand, denotes ſo many thouſandth parts of an Unite, or Integer, and is called <hi>Thirds,</hi> and ſo on, as in the following Table.</p>
+            <p>
+               <hi>The Notation Table for Decimals.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Primes</cell>
+                     <cell>3</cell>
+                     <cell>Tenth parts</cell>
+                     <cell rows="6">of Unity.</cell>
+                  </row>
+                  <row>
+                     <cell>Seconds</cell>
+                     <cell>5</cell>
+                     <cell>Hundr. parts</cell>
+                  </row>
+                  <row>
+                     <cell>Thirds</cell>
+                     <cell>7</cell>
+                     <cell>Thouſ. parts</cell>
+                  </row>
+                  <row>
+                     <cell>Fourths</cell>
+                     <cell>9</cell>
+                     <cell>X Thouſ. parts</cell>
+                  </row>
+                  <row>
+                     <cell>Fifths</cell>
+                     <cell>8</cell>
+                     <cell>C Thouſ. parts</cell>
+                  </row>
+                  <row>
+                     <cell>Sixths</cell>
+                     <cell>4</cell>
+                     <cell>Mill. parts</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="35" facs="tcp:174268:20"/>
+            <p>This Table conſiſts only of a Decimal Fraction, againſt which above is ſet the Value of each place, and below its Name.</p>
+            <p>From a little conſideration of what has been ſaid 'tis evident, that Cyphers pre<g ref="char:EOLhyphen"/>fix'd on the right hand of the Numerator of a Decimal Fraction, do neither increaſe nor leſſen its value. For .2 is of the ſame value with .20 or .200 &amp;c. And there<g ref="char:EOLhyphen"/>fore 'tis very eaſy reducing Decimal Fracti<g ref="char:EOLhyphen"/>ons to a common Denominator, for 'tis but ſeting Cyphers on the right hand of the Numerator: As ſuppoſe .3 and .84 and .476 and .2356 were Decimal Fracti<g ref="char:EOLhyphen"/>ons, and it was required to reduce them to one Denominator; here I conſider that the Denominator of the greateſt Decimal given is 10000, I therefore add ſo many Cyphers to each of the Numerators that will make each of their Denominators to conſiſt of five places, ſo that the above propoſed Decimals, when reduced, ſtand thus .3000 and .8400 and .4760 and .2356.</p>
+            <p>I have been as clear as poſſible in ex<g ref="char:EOLhyphen"/>plaining the Notation of theſe Numbers, becauſe of the great facility they bring with their practice in ſeveral Operations,
+<pb n="36" facs="tcp:174268:21"/>not only in Arithmetick, but in moſt o<g ref="char:EOLhyphen"/>ther parts of the Mathematicks. For, had our firſt Inſtitution of Dividing our Mo<g ref="char:EOLhyphen"/>ney, Weight, Meaſure, <hi>&amp;c.</hi> been Decimal<g ref="char:EOLhyphen"/>ly, we had never been troubled with ſo many Fractions, which cauſe ſuch great tediouſneſs in ſeveral Operations. And indeed the Art of Arithmetick would be taught with much more eaſe and expedi<g ref="char:EOLhyphen"/>tion than now it is, in caſe ſuch a Refor<g ref="char:EOLhyphen"/>mation ſhould ever be brought to paſs.</p>
+            <div type="subpart">
+               <head>Reduction of Decimals.</head>
+               <p>WHat is here to be done is no more than what was ſhown in <hi>Reduction</hi> the <hi>5th.</hi> of Vulgar Fractions, only here I ſhall more largely comment upon what I there but hinted; and ſhow in the firſt place how to reduce a Vulgar Fraction to a Decimal, and then how to find the Value of any Decimal in the known parts of Coin, Weight, Time, <hi>&amp;c.</hi> and that with as much brevity and clearneſs as I can.</p>
+            </div>
+            <div type="subpart">
+               <pb n="37" facs="tcp:174268:21"/>
+               <head>To Reduce a Vulgar Fraction to a Decimal.</head>
+               <p>THe proportion for reducing a Vul<g ref="char:EOLhyphen"/>gar Fraction to a Decimal, is, <hi>As the Denominator of the Vulgar Fraction to its Numerator, So is</hi> 10, 100, 1000, &amp;c. <hi>or any aſſign'd Denominator, to its Numerator, that is to the Decimal required.</hi>
+               </p>
+               <div type="examples">
+                  <p>
+                     <hi>Exam.</hi> 1. Suppoſe it was required to reduce ¾ to a Decimal Fraction, the Ope<g ref="char:EOLhyphen"/>ration is as follows,</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>So that .7500 or .75 (for Cyphers on the right hand a Decimal Fraction neither increaſes nor diminiſhes its value) is the Decimal equivalent to ¾.</p>
+               </div>
+               <div type="note">
+                  <pb n="38" facs="tcp:174268:22"/>
+                  <head>Note.</head>
+                  <p>From the preceding proportion 'tis evi<g ref="char:EOLhyphen"/>dent, That if to the Numerator of any Vulgar Fraction you annex ſo many Cy<g ref="char:EOLhyphen"/>phers, as you would have your Decimal to conſiſt of places, and divide by the Denominator, the Quote gives the Deci<g ref="char:EOLhyphen"/>mal required.</p>
+               </div>
+               <div type="examples">
+                  <p>
+                     <hi>Exam.</hi> 2. Reduce 15/19 to a Decimal of five places.</p>
+                  <p>To 15 the Numerator of the given Vulgar Fraction I annex five Cyphers, it makes 1500000, this I divide by 19 the Denominator, the Quote is the Decimal required. See the following Operation.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="39" facs="tcp:174268:22"/>
+                  <p>So that the Decimal equal to the given Vulgar Fraction is .78947, which be<g ref="char:EOLhyphen"/>cauſe of the remainder, is not exactly the truth, yet 'tis ſo near, that it wants not 1/100000 part of an Unite of the truth, and if you proceed farther to make the De<g ref="char:EOLhyphen"/>cimal conſiſt of ſix places, it will be .789473, and then it will not want 1/1000000 part of an Unite of the truth; for if the Decimal be made .789474, it would exceed the true value.</p>
+                  <p>And thus by Increaſing the Number of places in the Decimal you may at laſt come infinitely near, tho' never to the truth it ſelf.</p>
+               </div>
+               <div type="examples">
+                  <p>
+                     <hi>Exam.</hi> 3. Reduce 1/32 into a Decimal of five places.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <pb n="40" facs="tcp:174268:23"/>
+                  <p>Here (becauſe the Decimal is required to five places) I add five Cyphers to 1 the Numerator of the given Fraction, and then divide by 32 the Denominator, the Quote gives 3125 for the Decimal ſought.</p>
+                  <p>But here Note, that becauſe I annex'd five Cyphers to 1 the given Numerator, and there ariſes but four figures in the Quote, I muſt ſupply ſuch defect by pre<g ref="char:EOLhyphen"/>fixing as many Cyphers on the left hand of the firſt figure in the Quote as there wants places, as in the preceding Ex<g ref="char:EOLhyphen"/>ample. where the Quote conſiſted but of four figures or places, here I annex a Cypher on the left hand of 3 the firſt fi<g ref="char:EOLhyphen"/>gure in the Quote, and then it becomes .03125 which is the true Decimal re<g ref="char:EOLhyphen"/>quired.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>To Reduce the known parts of Money, Weight, Time, <hi>&amp;c.</hi> to a Decimal Frac<g ref="char:EOLhyphen"/>tion.</head>
+               <p>FRom what precedes, 'tis evident how the known parts of Money, Weight, Time, <hi>&amp;c.</hi> may be turn'd into a Decimal of the ſame Value, or Infinitely near it, for if in Money, a Pound Ster<g ref="char:EOLhyphen"/>ling be an Integer, whatſoever is leſs
+<pb n="41" facs="tcp:174268:23"/>than a Pound, is either a part or parts of the ſame; and when you know what part or parts thereof it is, you may eaſily Reduce it to a Decimal of the ſame Va<g ref="char:EOLhyphen"/>luc, from what was taught in the laſt.</p>
+               <p>
+                  <hi>Exam.</hi> What's the Decimal of 9 <hi>s.</hi> That is Reduce 9/20 into a Decimal conſiſting of two places.</p>
+               <p>
+                  <gap reason="math">
+                     <desc>〈 math 〉</desc>
+                  </gap>
+               </p>
+               <p>Here working according to what has been before directed, I find the Decimal of 9 <hi>s.</hi> to be .45</p>
+               <p>So if I would know the Decimal of 9 <hi>d.</hi> here I conſider that 9 <hi>d.</hi> is 9/12 of 1/20 of a Pound or 9/240.</p>
+               <p>Working therefore according to the preceding Rule, I find the equivalent Decimal to be .0375.</p>
+               <p>Again, if I would know the Decimal of 3 Farthings, here I muſt conſider that 3 Farthings is the ¾ of 1/12 of 1/20 or 3/960 of a pound, and therefore working as be<g ref="char:EOLhyphen"/>fore, I find the Decimal to be .0031 near.</p>
+               <pb n="42" facs="tcp:174268:24" rendition="simple:additions"/>
+               <p>
+                  <hi>Laſtly,</hi> if it were requir'd to find the Decimal of 7 <hi>l.</hi> 08 <hi>s.</hi> ¾ that is 371 Far<g ref="char:EOLhyphen"/>things, or 371/900 here repeating the like o<g ref="char:EOLhyphen"/>peration, I find the Equivalent Decimal to be 3864, the like is to be underſtood in reduceing to Decimals, the known parts of Weight, Time, Meaſure, Mo<g ref="char:EOLhyphen"/>tion, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>To find the Value of a Decimal Fraction in the known parts of Money, Weight, Time, <hi>&amp;c.</hi>
+               </head>
+               <p>THis is but the Converſe of the for<g ref="char:EOLhyphen"/>mer; and therefore the Rule for finding the Value of a Decimal is groun<g ref="char:EOLhyphen"/>ded upon the ſame reaſon as that of turn<g ref="char:EOLhyphen"/>ing any part of Coyne, &amp;c. to a Deci<g ref="char:EOLhyphen"/>mal.</p>
+               <p>For 'twill hold <hi>as the Decimal Denomina<g ref="char:EOLhyphen"/>tor is to its Numerator, So is the parts in the next Inferior Denomination to the Nu<g ref="char:EOLhyphen"/>merator, or Number of ſuch parts contain'd in the Decimal.</hi>
+               </p>
+               <p>And hence comes this Rule. Multi<g ref="char:EOLhyphen"/>ply the given Decimal by the parts of the next inferior Denomination, that are equal to the Integer the Decimal gives the parts of, and from the product cut
+<pb n="43" facs="tcp:174268:24"/>of ſo many figures towards the right hand as there are places in the given Decimal, the remaining figures on the left ſide are the value of the ſaid Deci<g ref="char:EOLhyphen"/>mal in the next inferior Denomination: If any thing remain, it is the Decimal of an Integer in the Denomination laſt found, and may be reduced as low as you pleaſe by the ſame Rule, and after the ſame manner, as it was in <hi>Reduct. 5th.</hi> of Vul<g ref="char:EOLhyphen"/>gar Fractions.</p>
+               <div type="examples">
+                  <p>
+                     <hi>Exam.</hi> How much is .3765 of a pound Sterling. I ſay,</p>
+                  <p>As 10000 to 3765, So is 20 to 7 <hi>s.</hi> 6 <hi>d.</hi>
+                  </p>
+                  <p>
+                     <hi>See the work.</hi> 
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>So that from the preceding Work I find the true Value of this Decimal of a Pound ſterling .3765 to be 7 <hi>s.</hi> 6 <hi>d.</hi> ¼ .44 After a like proceſs may the Value of any Decimal of Weight, Time, Meaſure, &amp;c. be found.</p>
+                  <pb n="44" facs="tcp:174268:25"/>
+                  <p>Some more Examples, I might here have added, but I think the Method is ſo plain, that it will be needleſs; I ſhall therefore forbear, and in the room there<g ref="char:EOLhyphen"/>of ſhow you a brief, and practical Rule for finding the value of any Decimal of a Pound Sterling, as ſoon as ever you hear it nam'd,</p>
+               </div>
+               <div type="rule">
+                  <head>The Rule is</head>
+                  <p>The figure in the firſt place, or place of Primes, being doubled gives you the Number of Shillings, and if the Figure in the ſecond place be 5, or above it, take one Shilling for the five, and add to the former Number of Shillings, found by doubling, then for that which remains above 5, with the Figure in the third place, count ſo many Farthings leſs by 1, that thoſe two Figures make, being ſet in a Numeral Order, or if the Figure in the ſecond place be under 5, then reckon ſo many Farthings wanting 1, as that and the Figure in the third place of the Deci<g ref="char:EOLhyphen"/>mal make in Number. An Example or two will make it plain.</p>
+               </div>
+               <div type="examples">
+                  <p>
+                     <hi>Exam.</hi> 1. What's the .375 of a pound Sterling.</p>
+                  <p>Here I double 3, which ſtands in the place of Primes, and that gives 6 <hi>s.</hi> then
+<pb n="45" facs="tcp:174268:25"/>becauſe the next Figure (7) is above 5, I add one Shilling to the 6 before found, and it makes 7 <hi>s.</hi> then the 2 which is left of the 7, with the 5 in the place of thirds, makes 25, which being leſſen'd by 1, gives 24 Farthings, ſo that the value of .375 is 7 <hi>s.</hi> 6 <hi>d.</hi>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>Exam. <hi>2.</hi>
+                  </head>
+                  <p>What's the Decimal of .719.</p>
+                  <p>Here the firſt figure 7 doubled gives 14 for the Number of Shillings, as be<g ref="char:EOLhyphen"/>fore, and for the other 19 that remains I account 18 Farthings, which is 4 <hi>d</hi> ½. ſo that the value of the Decimal .719 is 14 <hi>s.</hi> 4 <hi>d.</hi> ½.</p>
+                  <p>More Examples might here be given, but I think theſe are ſufficient to illuſ<g ref="char:EOLhyphen"/>trate this practical way of finding the va<g ref="char:EOLhyphen"/>lve of the Decimal of a pound Sterling.</p>
+                  <p>I ſhall conclude this with the Inſertion of the Decimal Table, for finding the va<g ref="char:EOLhyphen"/>lue of any Decimal of a pound Sterling, omitting thoſe of <hi>Weight, Meaſure, Time, &amp;c.</hi> becauſe of their being ſo ſeldom u<g ref="char:EOLhyphen"/>ſed, and if required, ſo eaſily Calculated from the aforementioned proportion, and likewiſe for their frequency in Books of this Nature.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <pb n="46" facs="tcp:174268:26"/>
+               <head>A TABLE, ſhowing the Decimal of any part of a Pound ſterling, <hi>&amp; contra.</hi>
+               </head>
+               <p>
+                  <table>
+                     <row>
+                        <cell rows="19">Shillings.</cell>
+                        <cell>19</cell>
+                        <cell>.95</cell>
+                     </row>
+                     <row>
+                        <cell>18</cell>
+                        <cell>.9</cell>
+                     </row>
+                     <row>
+                        <cell>17</cell>
+                        <cell>.85</cell>
+                     </row>
+                     <row>
+                        <cell>16</cell>
+                        <cell>.8</cell>
+                     </row>
+                     <row>
+                        <cell>15</cell>
+                        <cell>.75</cell>
+                     </row>
+                     <row>
+                        <cell>14</cell>
+                        <cell>.7</cell>
+                     </row>
+                     <row>
+                        <cell>13</cell>
+                        <cell>.65</cell>
+                     </row>
+                     <row>
+                        <cell>12</cell>
+                        <cell>.6</cell>
+                     </row>
+                     <row>
+                        <cell>11</cell>
+                        <cell>.55</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>.5</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>.45</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>.4</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>.35</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>.3</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>.25</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>.2</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>.15</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>.1</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>.05</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell rows="11">Pence.</cell>
+                        <cell>11</cell>
+                        <cell>.04584</cell>
+                     </row>
+                     <row>
+                        <cell>10</cell>
+                        <cell>.04166</cell>
+                     </row>
+                     <row>
+                        <cell>9</cell>
+                        <cell>.0375</cell>
+                     </row>
+                     <row>
+                        <cell>8</cell>
+                        <cell>.03333</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>.02917</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>.025</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>.02083</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>.01667</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>.0125</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>.0083</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>.00417</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell rows="3">Farth.</cell>
+                        <cell>3</cell>
+                        <cell>.00312</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>.00208</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>.00104</cell>
+                     </row>
+                  </table>
+               </p>
+               <div type="examples">
+                  <head>The Uſe of the Table.</head>
+                  <p>The method of making this Table is evident from what procedes, and its uſe almoſt as apparent. Let the Decimal of 13 <hi>s.</hi> 7 <hi>d.</hi> ½, be required, Seek in the Table firſt for the Decimal of 13 <hi>s.</hi> which is .65 next for the Decimal of 7 <hi>d.</hi> which
+<pb n="47" facs="tcp:174268:26"/>is .02917, and laſtly for the Decimal of ½, which is .00208; I ſet theſe Decimals in the order following, and add them together.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>By which you ſee the Decimal of 13 <hi>s.</hi> 7 <hi>d.</hi> ½ is .68125. In like manner may the Decimal of any other Sum be found, as alſo the Sum belonging to any given Decimal.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Addition of Decimals.</head>
+               <p>AS to the manner of adding, 'tis the the ſame as in common Addition, the buſineſs being only to ſee that they are rightly plac'd, according to the man<g ref="char:EOLhyphen"/>ner of their Notation, which thing is eaſily effected, by ſeting the point prefixt to them under each other; for then the reſt of the places will fall right, whether they be whole Numbers and Decimals, or all Decimals.</p>
+               <div type="examples">
+                  <pb n="48" facs="tcp:174268:27"/>
+                  <head>Some Examples.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Here you ſee in all theſe caſes that Primes ſtands under Primes, Seconds under Seconds, &amp;c. And where Integers are joyn'd with Decimals, there unites, ſtands under unites, and Tens under Tens, &amp;c. In which Examples 'tis very plain, that the method of adding is put as it was in whole Numbers, only here you are to make the ſumm conſiſt of no more Decimal places, then is in the great<g ref="char:EOLhyphen"/>eſt part of it. As in our firſt Example, the Summ conſiſted of fix places or Fi<g ref="char:EOLhyphen"/>gures, and the greateſt part but of five, I therefore cut off five Figures in the Sum, toward the right hand for the Decimal parts, the remainder on the left are In<g ref="char:EOLhyphen"/>tegers.</p>
+                  <p>
+                     <hi>Note,</hi> That in this, and the following Rule, the Decimals given to be added, or
+<pb n="49" facs="tcp:174268:27"/>Subſtracted, muſt be parts of the ſame whole.</p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>What's the Sume of 29 &amp; 3.007 &amp; .94 &amp; 89.76. <hi>Anſwer.</hi>
+                  </p>
+                  <p>What's the Sume of 3.87 &amp; 486 &amp; .4 &amp; .025. <hi>Anſwer.</hi>
+                  </p>
+                  <p>What's the Sume of 59.4 &amp; 8.796 &amp; 472.6 &amp; .142. <hi>Anſwer.</hi>
+                  </p>
+                  <p>
+                     <hi>Note,</hi> that <hi>In.</hi> over the preceding and following Sums ſtands for <hi>Integer,</hi> and <hi>pts.</hi> for <hi>Parts.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Subſtraction of Decimals.</head>
+               <p>THe Operation here is in all reſpects like to that in Vulgar Subſtraction, the main thing (as in the laſt) being on<g ref="char:EOLhyphen"/>ly to ſee that they are rightly placed, which is done by the direction given in the foregoing Rule of Addition.</p>
+               <pb n="50" facs="tcp:174268:28"/>
+               <div type="examples">
+                  <p>
+                     <hi>Some Examples</hi>
+                  </p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Here you ſee we Subſtract as in com<g ref="char:EOLhyphen"/>mon Subſtraction, only obſerve, that where the Decimals have not an equal Number of places, the vacances are ſup<g ref="char:EOLhyphen"/>plied with Ciphers, or are underſtood ſo to be, eſpecially in the upper Number.</p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <list>
+                     <item>From 15 ſubſtract 7.8 <hi>Anſw.</hi> 7.2</item>
+                     <item>From 1 ſubſtract .9872 <hi>Anſw.</hi> .0128</item>
+                     <item>From 58.6 ſubſtract 3.98625. <hi>Anſw.</hi> 54.61375</item>
+                  </list>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Multiplication of Decimals.</head>
+               <p>IN Multiplication of Decimals, both the manner of placing and multiply<g ref="char:EOLhyphen"/>ing is in all reſpects and caſes, the ſame with that of placing and multiplying whole Numbers, the buſineſs here being
+<pb n="51" facs="tcp:174268:28"/>only to find the value of the Product af<g ref="char:EOLhyphen"/>ter the Operation is ended, which to do take this general</p>
+               <div type="rule">
+                  <head>Rule.</head>
+                  <p>
+                     <hi>See how many Decimal places there are in the Multiplicand and Multiplior, and from the Product toward the right hand cut off ſo many as are in both theſe, ſo ſhall the Fi<g ref="char:EOLhyphen"/>gures on the right hand of the point be De<g ref="char:EOLhyphen"/>cimal places, and thoſe on the left ſide In<g ref="char:EOLhyphen"/>tegers.</hi>
+                  </p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>But if when the Multiplication is end<g ref="char:EOLhyphen"/>ed, there ariſe not ſo many Figures in the Product, as ought to be cut off, then is ſuch defect to be ſupply'd, by annex<g ref="char:EOLhyphen"/>ing as many Cyphers on the Left Hand thereof, as there wants places; with a point before them, and you have the true value of the product; See the following <hi>Examples.</hi>
+                  </p>
+               </div>
+               <div type="examples">
+                  <pb n="52" facs="tcp:174268:29"/>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>The conſideration of this practice will be of ſome help to you, in finding the true value of the Quote in Diviſion.</p>
+               </div>
+               <div type="examples">
+                  <head>More Examples.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Of Contraction in Multiplication of mixt Numbers.</head>
+               <p>THere is in this kind of Multiplica<g ref="char:EOLhyphen"/>tion, a certain way of Contraction, by which you may get the product, to as few, or many places as you pleaſe, without the tedious Multiplication of the whole; the Method of which is as follows.</p>
+               <p>As Suppoſe 9.58 was to be Multiplyed by 8.79, here 'tis evident the decimal
+<pb n="53" facs="tcp:174268:29"/>will conſiſt of 4 places, and only two would be ſufficient.</p>
+               <p>Set down the bigger of the two Quan<g ref="char:EOLhyphen"/>tities for the Multiplicand, and then ſet the place of Unites in the Multiplior, under that place of parts in the Multi<g ref="char:EOLhyphen"/>plicand, you would have in the pro<g ref="char:EOLhyphen"/>duct, and then invert the Order of all the other places in the Multiplior, <hi>that is,</hi> ſet the place of Tenns, where Primes ſhould be, and the place of Primes where Tenns ſhould be, and ſo on with the invertion of the reſt; then let each Figure of the Multiplior, Multiply that of the Multiplicand, which is juſt over, Remembring to add, what would have been brought thither from the following places; then add up all together, and from the Summ cut of two Figures (in this Example) next the Right Hand, and you have your deſire, all which by the following Examples, compar'd with this direction will plainly appear.</p>
+               <div type="examples">
+                  <pb n="54" facs="tcp:174268:30"/>
+                  <head>Example 1ſt.</head>
+                  <p>By the common way <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>By Contraction <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>Example 2d.</head>
+                  <p>By the Common way <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>By Contraction <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>This laſt was requir'd to three places, where you ſee they are ſeperated by a
+<pb n="55" facs="tcp:174268:30" rendition="simple:additions"/>point toward the Right Hand, being 190, but ſhould have been 192; which ſmall Errour is caus'd by the want of the Carriage from the next row, and there<g ref="char:EOLhyphen"/>fore if you would have it exactly to 3 places, eſpecially in great Summs, you ought to do it to four.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Diviſion of Decimals.</head>
+               <p>THE manner of working Decimal Di<g ref="char:EOLhyphen"/>viſion, is in every thing like to that of Common Diviſion, and therefore no regard as to their place and Nature is here to be had, any more than what was in Diviſion of whole Numbers; the Mi<g ref="char:EOLhyphen"/>ſtery of this lying firſt in their prepara<g ref="char:EOLhyphen"/>tion, when need requires. <hi>Secondly,</hi> In finding the true Value of that Quote after the Diviſion is ended.</p>
+               <p>
+                  <hi>Firſt,</hi> Therefore when it happens, that the Diviſor has more places than the Di<g ref="char:EOLhyphen"/>vidend, you muſt put to the Right Hand of the dividend, (whether it be a whole Number, mixt or Decimal Fraction) a certain Number of Ciphers at pleaſure, by which it is made fit for Operation.</p>
+               <pb n="56" facs="tcp:174268:31" rendition="simple:additions"/>
+               <p>As ſuppoſe 14 was to be divided by 361, 'tis evident here is an abſolute Ne<g ref="char:EOLhyphen"/>ceſſity of prefixing Ciphers to 14 the Di<g ref="char:EOLhyphen"/>vidend, before you can divide by 361 the Diviſor.</p>
+               <p>The Dividend being thus prepared take Notice, that there muſt be as many decimal places in the Diviſor and Quo<g ref="char:EOLhyphen"/>tient as are in the Dividend; for the di<g ref="char:EOLhyphen"/>vidend is in effect the product, and the Diviſor and Quotient the Multiplicand and Multiplior. And therefore for the finding the value of the Quotient this is the</p>
+               <div type="rule">
+                  <head>Rule.</head>
+                  <p>
+                     <hi>Look how many Decimal places are in the Dividend, more than in the Diviſor, for ſo many Decimal places will there be in the Quotient.</hi>
+                  </p>
+                  <p>And here Note, that you muſt be ſure to make the Dividend conſiſt of more places than the Diviſor, if it doth not ſo already, which is eaſily done, by ad<g ref="char:EOLhyphen"/>ing Ciphers.</p>
+               </div>
+               <div type="examples">
+                  <pb n="57" facs="tcp:174268:31"/>
+                  <head>Example.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Having annexed 4 Ciphers to each of the Dividends, the firſt Dividend being an Integer, conſiſts only of the 4 Deci<g ref="char:EOLhyphen"/>mals added; but the later being a Deci<g ref="char:EOLhyphen"/>mal, is made to conſiſt of ſix Decimals by the 4 Ciphers that was added; they being thus prepared, and the work of Diviſion over, you ſee the Quote conſiſts; of 4 places; now conſidering how many
+<pb n="58" facs="tcp:174268:32"/>Decimal places there is in each of thoſe Quotes more than in their proper Divi<g ref="char:EOLhyphen"/>dends, and you ſhall find that in the firſt Quote, there ought to be two places of Decimals, and in the ſecond ſix of the like places, which becauſe there is but four, I prefix two Ciphers on the Left Hand thereof, which makes it .004216.</p>
+               </div>
+               <div type="examples">
+                  <head>Some more Examples.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>I have to theſe 4 Examples, ſet only the Dividends prepar'd with their Quo<g ref="char:EOLhyphen"/>tients truly Valued, the conſideration of which, with the preceding direction, I hope will be a ſufficient light in all o<g ref="char:EOLhyphen"/>ther Caſes that can happen.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <pb n="59" facs="tcp:174268:32"/>
+               <head>Of the Uſe of Decimals.</head>
+               <p>TO ſhow the uſe of theſe Numbers in all Solutions, where they might be applied in Expediting an Operation, would be endleſs, they being of great uſe in moſt parts of the Mathematicks; but particularly, and principally in Gauging, Surveying, and Meaſuring, Calculating the Tables of Intereſt, raiſing of Loga<g ref="char:EOLhyphen"/>rithmes; as may be ſeen in moſt Books, that have Writ of theſe Subjects, I ſhall therefore forbear giving Examples of uſe<g ref="char:EOLhyphen"/>ing them in any of theſe parts, Except I had Treated diſtinctly of each of them; and ſhall cloſe rhis Paragraph with the Collection of a few eaſy Queſtions, which are very ſpeedily and eaſy ſolv'd by theſe Numbers.</p>
+            </div>
+            <div type="subpart">
+               <head>By Multiplication.</head>
+               <p>IN 756 Piſtoles, at 18 <hi>s.</hi> each, How many Pounds Sterling. <hi>Anſw.</hi> 680 <hi>l.</hi> 08 <hi>s.</hi>
+               </p>
+               <p>In 439 Guinea's, at 22 <hi>s.</hi> 6 <hi>d.</hi> each, How many Pounds ſterling. <hi>Anſw.</hi> 493 <hi>l.</hi> 17 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <pb n="60" facs="tcp:174268:33"/>
+               <p>If I ſpend 4 <hi>s.</hi> 6 <hi>d. per</hi> Day, How much is that for one Year. <hi>Anſw.</hi> 82 <hi>l.</hi> 2 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>If a yard of Cloth is worth 6 <hi>s.</hi> 9 <hi>d.</hi> What comes 59 Yards to at that Rate. <hi>Anſw.</hi> 19 <hi>l.</hi> 18 <hi>s.</hi> 3 <hi>d.</hi>
+               </p>
+               <p>If a piece of Paving be 34 foot, 6 in<g ref="char:EOLhyphen"/>ches long, and 24 foot, 9 inches broad, What's the Content in ſquare feet. <hi>Anſw.</hi> 853 foot .875</p>
+               <p>If one Man's ſhare in the Cargo of a ſhip come to 38 <hi>l.</hi> 14 <hi>s.</hi> What was the whole worth, ſuppoſing there was 158 Men in the ſhip. <hi>Anſw.</hi> 6114 <hi>l.</hi> 12 <hi>s.</hi>
+               </p>
+               <p>If the Intereſt of 500 <hi>l.</hi> for one Day is 2 <hi>s.</hi> 3 <hi>d.</hi> What's that for a Year. <hi>Anſw.</hi> 41 <hi>l.</hi> 1 <hi>s.</hi> 3 <hi>d.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>By Diviſion.</head>
+               <p>IN 680 <hi>l.</hi> 8 <hi>s.</hi> How many Piſtoles, at 18 <hi>s.</hi> each. <hi>Anſw.</hi> 756.</p>
+               <p>In 493 <hi>l.</hi> 17 <hi>s.</hi> 6 <hi>d.</hi> How many Gui<g ref="char:EOLhyphen"/>nea's at 22 <hi>s.</hi> each. <hi>Anſw.</hi> 439.</p>
+               <p>If I ſpend 82 <hi>l.</hi> 2 <hi>s.</hi> 6 <hi>d.</hi> in one year. What is that for one day. <hi>Anſw.</hi> 4 <hi>s.</hi> 6 <hi>d.</hi>
+               </p>
+               <p>If 59 Yards of Cloth coſt 19 <hi>l.</hi> 18 <hi>s.</hi> 3 <hi>d.</hi> What Coſt one Yard. <hi>Anſw.</hi> 6 <hi>s.</hi> 9 <hi>d.</hi>
+               </p>
+               <pb n="61" facs="tcp:174268:33"/>
+               <p>If the Content of a piece of Paving be 853 Foot .875 and the length be 34 foot 6 Inches. What's the true breadth. <hi>Anſw.</hi> 24 Foot 9 Inches.</p>
+               <p>If the whole Cargo of a ſhip be 6114 <hi>l.</hi> 12 <hi>s.</hi> and there be 158 men in the ſhip. What comes each man's ſhare. <hi>Anſw.</hi> 38 <hi>l.</hi> 14 <hi>s.</hi>
+               </p>
+               <p>If the Intereſt of 500 <hi>l.</hi> for a Year is 41 <hi>l.</hi> 1 <hi>s.</hi> 3 <hi>d.</hi> What is that for one day. <hi>Anſw.</hi> 2 <hi>s.</hi> 3 <hi>d.</hi>
+               </p>
+               <p>I conceive it needleſs to meddle with the Rule of Three, it being in all kinds and reſpects performed like that in Vul<g ref="char:EOLhyphen"/>gar Fractions; I ſhall therefore leave the Exerciſe of Queſtions of this nature to the Ingenious.</p>
+            </div>
+            <div type="subpart">
+               <head>A Specimen of the Demonſtration of the Operations of Vulgar and Decimal Fractions.</head>
+               <p>I Shall firſt begin with that of Vulgar Fractions, and in order to the more clear apprehending thereof, I muſt make a ſhort Repetition of what has been al<g ref="char:EOLhyphen"/>ready declared in the firſt page, <hi>viz.</hi>
+               </p>
+               <pb n="62" facs="tcp:174268:34"/>
+               <p>That a Fraction is a part or parts of ſome diviſible Integer, and is repreſented by two Numbers, the one above the o<g ref="char:EOLhyphen"/>ther beneath a Line thus ⅖.</p>
+               <p>The Number placed beneath the Line is called the Denominator, and ſhows what parts the Unite is divided into.</p>
+               <p>The Number placed above the Line is called the Numerator, and ſhows how many of thoſe parts are to be taken in the Fraction.</p>
+               <p>As the Fraction ⅖ denotes two ſuch parts as the Integer contains 5.</p>
+               <p>From this method of expreſſing Frac<g ref="char:EOLhyphen"/>tions it follows.</p>
+               <p>That every Fraction is to its whole an Unite, as the Numerator is to the Deno<g ref="char:EOLhyphen"/>minator, and conſequently.</p>
+               <p>
+                  <hi>Firſt,</hi> That if the Numerator be
+<list>
+                     <item>greater</item>
+                     <item>equal</item>
+                     <item>leſs</item>
+                  </list> than the Denominator, the Fraction is ac<g ref="char:EOLhyphen"/>cordingly greater equal or leſs than its whole an Unite. The firſt and ſecond of theſe kinds are called Improper Fractions, the laſt are termed Proper.</p>
+               <p>
+                  <hi>Secondly,</hi> That Fractions are not to be eſtimated by the greatneſs of their Num<g ref="char:EOLhyphen"/>bers by which they are expreſs'd, but by the proportion the Numerators bear to the Denominators.</p>
+               <pb n="63" facs="tcp:174268:34"/>
+               <p>
+                  <hi>Thirdly,</hi> That Fractions, whoſe Nume<g ref="char:EOLhyphen"/>rators to their Denominators bear the ſame proportion, are equal as ½. 3/6. 10/12.</p>
+               <p>
+                  <hi>Fourthly,</hi> That every Fraction is the Quotient of the Numerator divided by the Denominator.</p>
+               <p>This being granted, I propoſe the fol<g ref="char:EOLhyphen"/>lowing <hi>Lemma.</hi>
+               </p>
+            </div>
+            <div type="lemma">
+               <head>Lemma.</head>
+               <p>
+                  <hi>If a Number multiply two Numbers, their Products are in ſuch proportion to each other, as the Numbers multiplied are to them<g ref="char:EOLhyphen"/>ſelves.</hi>
+               </p>
+               <p>For 3 multiplying
+<list>
+                     <item>6</item>
+                     <item>8</item>
+                  </list> produceth
+<list>
+                     <item>18</item>
+                     <item>24</item>
+                  </list> then I ſay that 6:8::18:24. Which thing is evident from the common Notion of Multiplication. For 1:3::
+<list>
+                     <item>6:18</item>
+                     <item>8:24</item>
+                  </list> and therefore 6:18::8:24 by the 11th. of the Fifth of <hi>Euclid.</hi>
+               </p>
+               <p>But by <hi>alternation</hi> 6:8::18:24, which was to be proved.</p>
+               <p>Having laid down this as a foundation, I ſhall proceed to a Demonſtration of each particular Operation.</p>
+            </div>
+            <div type="subpart">
+               <pb n="64" facs="tcp:174268:35"/>
+               <head>Reduction the Firſt.</head>
+               <p>This is ſo clear from the nature and manner of expreſſing a Fraction, as alſo from the firſt conſequent, that it needs no farther Demonſtration.</p>
+            </div>
+            <div type="subpart">
+               <head>Reduction the Second.</head>
+               <p>The Proof of this is a conſequent from that of Multiplication, and therefore I re<g ref="char:EOLhyphen"/>fer it to that place.</p>
+            </div>
+            <div type="subpart">
+               <head>Reduction the Third.</head>
+               <p>This teaches to abbreviate a Fraction, by dividing both Numerator and Deno<g ref="char:EOLhyphen"/>minator by any Number that will divide both without a remainder.</p>
+               <p>As ſuppofe 6/8 is given to be reduced to its loweſt Terms, here dividing 6 by 2, and 8 by 2, there ariſes ¾; now ſince 3 and 4 multiplied by 2 produces the ſame Numbers, <hi>viz.</hi> 6/8. therefore 3:4::6:8 and therefore the Fraction ¾ is equal to 6/8 by the <hi>Lemma,</hi> and third Conſequent.</p>
+            </div>
+            <div type="subpart">
+               <pb n="65" facs="tcp:174268:35"/>
+               <head>Reduction the Fourth.</head>
+               <p>This teaches to reduce Fractions of divers Denominations into one Denomi<g ref="char:EOLhyphen"/>tion, having the ſame value, for doing of which the</p>
+               <div type="rule">
+                  <head>Rule is</head>
+                  <p>Multiply all the Denominators for a common Denominator, then multiply each Numerator into all the Denominators, except its own, for a new Numerator.</p>
+                  <p>As ſuppoſe ⅜ and 2/7 were given to be ſo reduced.</p>
+                  <p>From the Operation according to the Rule they will ſtand thus 3x7 / 8x7 and 8x2 / 8x7 that is 21/56 and 16/56, which Fractions are by the aforeſaid <hi>Lemma</hi> and third Conſequent e<g ref="char:EOLhyphen"/>qual to thoſe given.</p>
+                  <p>Again, Suppoſe ⅔.¾.⅘ were given thus to be reduced. The Fractions <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> that is 40/60 45/60 48/60 are evidently equal to the Fractions propoſed by the ſaid <hi>Lemma,</hi> and third Conſe<g ref="char:EOLhyphen"/>quent.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <pb n="66" facs="tcp:174268:36"/>
+               <head>Reduction the Fifth.</head>
+               <p>This is proved in the Reduction of a Vulgar Fraction to a Decimal.</p>
+            </div>
+            <div type="subpart">
+               <head>Of Addition and Subſtraction of Fractions.</head>
+               <p>THe Fractions whoſe Summ or Diffe<g ref="char:EOLhyphen"/>rence is required muſt be reduced to equal Fractions, having the ſame Deno<g ref="char:EOLhyphen"/>mination. And then according to the Rule the
+<list>
+                     <item>Summ</item>
+                     <item>Difference</item>
+                  </list> of the Numerators placed over the common Denominator is the
+<list>
+                     <item>Summ</item>
+                     <item>Difference</item>
+                  </list> of the Fractions requir'd.</p>
+               <p>
+                  <hi>Exam.</hi> What's the Summ and Diffe<g ref="char:EOLhyphen"/>rence of ⅜ and 2/7.</p>
+               <p>The Fractions reduced to others equal to them, and of the ſame Denomination are 21/56 and 16/56 conſequently 21 ± 16 / 56 is the
+<list>
+                     <item>Summ</item>
+                     <item>Difference</item>
+                  </list> of the Fractions, that is the Summ is 37/56, the Difference 5/56, which was required.</p>
+            </div>
+            <div type="subpart">
+               <head>Of Multiplication of Fractions.</head>
+               <p>For finding the product of any two Fractions, this is the</p>
+               <div type="rule">
+                  <pb n="67" facs="tcp:174268:36"/>
+                  <head>Rule.</head>
+                  <p>Multiply the Numerators together for a new Numerator, and the Denomina<g ref="char:EOLhyphen"/>tors together for a new Denominator, the Fraction thus produced is the pro<g ref="char:EOLhyphen"/>duct.</p>
+                  <p>
+                     <hi>Exam.</hi> Suppoſe ¾ was given to be Multiplied by ⅔, the Product is <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>The reaſon of which is evident, for by the <hi>4th.</hi> Conſequent I confider theſe Frac<g ref="char:EOLhyphen"/>tions as the Quotients of their reſpective Numerators divided by their Denomina<g ref="char:EOLhyphen"/>tors, and ſo if I multiply ¾ by 2 it gives 2x3 / 4 for to double any Quotient, is to double the Dividend: But now ſince I have multiplied by 2, when I ought to have multiplied by ⅓ of 2, therefore ⅓ of this product is the truth, which I ef<g ref="char:EOLhyphen"/>fect by tripling the diviſor 4. Therefore <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap> is the product of ⅔ by ¾.</p>
+                  <p>And here you may take notice, that the product of any Quantity multiplied by a Fraction is always leſs than the Quantity ſo multiplied.</p>
+                  <pb n="68" facs="tcp:174268:37" rendition="simple:additions"/>
+                  <p>The reaſon of which follows from the Principle of Common Multiplication, which is, that every Product contains the Dividend ſo often as the Diviſor con<g ref="char:EOLhyphen"/>tains 1 or Unity. If therefore the Mul<g ref="char:EOLhyphen"/>tiplior be leſs than 1 or Unity, the Pro<g ref="char:EOLhyphen"/>duct will be leſs than the Multipli<g ref="char:EOLhyphen"/>cand; For according to this Principle, the Product muſt not contain the Multi<g ref="char:EOLhyphen"/>plicand once, becauſe the Multiplior doth not Unity.</p>
+                  <p>Hence the Product of two Fractions is evidently leſs than either of them.</p>
+                  <p>And hence alſo the reaſon of reducing Compound Fractions to Simple ones is very clear; for to take the ⅔ of ¾, is no more than to Multiply thoſe two Fracti<g ref="char:EOLhyphen"/>ons together.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Of Diviſion.</head>
+               <p>For working of Diviſion the</p>
+               <div type="rule">
+                  <head>Rule is</head>
+                  <p>Multipliply the Denominator of the Diviſor into the Numerator of the Di<g ref="char:EOLhyphen"/>vidend for a new Numerator, and the Numerator of the Diviſor into the De<g ref="char:EOLhyphen"/>nominator of the Dividend for a new De<g ref="char:EOLhyphen"/>nominator, the Fraction thus formed ſhall be the Quotient.</p>
+                  <pb n="69" facs="tcp:174268:37"/>
+                  <p>Suppoſe ⅔ to be divided by ¾.</p>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Here, as before, I conſider the Fracti<g ref="char:EOLhyphen"/>ons as Quotients: So that if the Exam<g ref="char:EOLhyphen"/>ple had been, How many ¼ is in ⅔; the Anſwer would be 4x2 / 3, for that is only Quadrupling the Numerator. But ſince my Diviſor is ¾, 'tis evident the for<g ref="char:EOLhyphen"/>mer Quote is 3 times too much; where<g ref="char:EOLhyphen"/>fore I take ⅓ of it by tripling the Divi<g ref="char:EOLhyphen"/>for, and then it ſtands as above.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Of Decimal Fractions.</head>
+               <p>DEcimal Fractions (as I have elſe<g ref="char:EOLhyphen"/>where noted) are only Fractions, whoſe Denominators are an Unite with Cyphers, as 10, 100, 1000, &amp;c. And are conveniently written without their Denominators; for if the Numerators conſiſts of places equal in Number to the Cyphers in the Denominator, then prefix a point before the Numerator, and
+<pb n="70" facs="tcp:174268:38" rendition="simple:additions"/>omit the Denominator; but if the Deno<g ref="char:EOLhyphen"/>minator do not conſiſt of as many pla<g ref="char:EOLhyphen"/>ces as there are Cyphers in the Denomi<g ref="char:EOLhyphen"/>nator, then you muſt ſupply that defect by puting Cyphers before the ſignificant figures of ſuch Numerator, with a point on the left hand of ſuch Cypher, or Cy<g ref="char:EOLhyphen"/>phers,</p>
+               <p>As 3/10 78/100 86/1000 54/10000 are thus expreſs'd .3 .78 .086. .0054</p>
+            </div>
+            <div type="subpart">
+               <head>To reduce a Vulgar Fraction to a Decimal.</head>
+               <p>SAy, As the Denominator of the Frac<g ref="char:EOLhyphen"/>tion propoſed, is to its Numerator, ſo is 10, 100, 1000 &amp;c. that is, an Unite with as many Cyphers as I intend my Decimal ſhall have places, to the Nume<g ref="char:EOLhyphen"/>rator of a Decimal equal to it.</p>
+               <div type="examples">
+                  <pb n="71" facs="tcp:174268:38"/>
+                  <head>Example.</head>
+                  <p>Reduce ¾ into a Decimal of two pla<g ref="char:EOLhyphen"/>ces <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>So that 75/100 or .75 is equal to the Fra<g ref="char:EOLhyphen"/>ction propoſed by the third Conſe<g ref="char:EOLhyphen"/>quent.</p>
+                  <p>The 5th. Reduction is here prov'd, this being the ſame with that, only then we knew not the name of Decimals, for ſuch Fractions as had 10, 100 &amp;c. for the Denominator.</p>
+               </div>
+            </div>
+            <div type="theorem">
+               <head>Theorem.</head>
+               <p>The Decimal Fraction .234 is equal to 2/10 + 3/100 + 4/1000 Alſo the mixt Quan<g ref="char:EOLhyphen"/>tity 3.856 is equal to 8 + 8/10 + 5/100 + 6/1000.</p>
+               <pb n="72" facs="tcp:174268:39"/>
+               <p>For 2/10=200/1000 &amp; 3/100=30/1000 &amp; 4/1000=4/1000 As alſo 3=3000/1000 &amp; 8/10=800/1000 &amp; 5/100=50/1000 &amp; 6/1000=6/1000. But 2/1000+3/1000 +4/1000=the Summ 234/1000=.234 Alſo 3000/1000+8/1000+5/1000+6/1000=the Summ 3. 856/1000=3.856 by the third Conſequent.</p>
+               <p>Hence the firſt place after the Point in Decimals is the place of Tenths, the ſecond of Hundredths, the third of Thou<g ref="char:EOLhyphen"/>ſandths, &amp;c. decreaſing in a Subdecuple proportion, from Unity towards the right hand, as whole Numbers increaſe from Unity towards the left in a Decu<g ref="char:EOLhyphen"/>ple proportion. <hi>Hence 'tis eaſie</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>To Add or Subſtract Decimals.</head>
+               <div type="rule">
+                  <head>The Rule.</head>
+                  <p>Place Unites under Unites, Tenths un<g ref="char:EOLhyphen"/>der Tenths, Hundredths under Hun<g ref="char:EOLhyphen"/>dredths, <hi>&amp;c.</hi> Then add or ſubſtract, as if they were whole Numbers.</p>
+               </div>
+               <div type="examples">
+                  <pb n="73" facs="tcp:174268:39"/>
+                  <head>Exam. in Add.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+               <div type="examples">
+                  <head>Exam. in Sub.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Multiplication of Decimals.</head>
+               <p>MUltiply Integers and Decimals to<g ref="char:EOLhyphen"/>gether, as if all were Integers, and then cut off as many places from the Product towards your right hand, or Decimals, as is the Number of Decimal places in both Multiplicand and Multi<g ref="char:EOLhyphen"/>plior.</p>
+               <div type="examples">
+                  <pb n="74" facs="tcp:174268:40"/>
+                  <head>Example.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>Here 32.5 is 324/10 and 7.6 is 76/10, which two Fractions multiplied by the Rule given for Multiplication of Vulgar Fra<g ref="char:EOLhyphen"/>ctions produce 24624/2100 or 246.24 The ſame holds in all other.</p>
+               </div>
+            </div>
+            <div type="subpart">
+               <head>Diviſion of Decimals.</head>
+               <p>DIvide the Dividend by the Diviſor in all reſpects, as in whole Numbers, only obſerve that ſo many Decimal pla<g ref="char:EOLhyphen"/>ces as there are in the Dividend more than there are in the Diviſor, ſo many muſt be cut off from the Quotient to the right hand for Decimals.</p>
+               <div type="examples">
+                  <pb n="75" facs="tcp:174268:40"/>
+                  <head>Example.</head>
+                  <p>
+                     <gap reason="math">
+                        <desc>〈 math 〉</desc>
+                     </gap>
+                  </p>
+                  <p>The reaſon of which is evident from Diviſion of Vulgar Fractions.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>ALL Sorts of Mathematick Inſtru<g ref="char:EOLhyphen"/>ments both for Sea and Land, are moſt Correctly Made, and Sold, by <hi>John Worgan,</hi> under St. <hi>Dunſtan</hi>'s Church in <hi>Fleetſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
